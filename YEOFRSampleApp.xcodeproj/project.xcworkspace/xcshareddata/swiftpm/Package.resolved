@@ -1,0 +1,15 @@
+{
+  "originHash" : "86ff35bf8df20360995d08117862da73aaae530cb9648b9177e91054747715bc",
+  "pins" : [
+    {
+      "identity" : "yeofr-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/YEOMessaging/YEOFR-SPM",
+      "state" : {
+        "revision" : "4d55a64441d284b776bb102635bfa614d724086c",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}

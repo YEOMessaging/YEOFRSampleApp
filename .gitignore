@@ -1,0 +1,21 @@
+.git_backup_*/
+.DS_Store
+DerivedData/
+build/
+**/xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+# binaries we never want
+*.xcframework
+*.framework
+*.a
+*.dSYM
+*.ipa
+*.app
+*.zip
+*.xcarchive
+# package managers
+.build/
+Pods/
+Carthage/
