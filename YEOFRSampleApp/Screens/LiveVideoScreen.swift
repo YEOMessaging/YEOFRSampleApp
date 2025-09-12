@@ -197,7 +197,7 @@ extension LiveVideoScreen {
 
         @discardableResult
         func registerFace(for faceID: Int64, name: String) -> Bool {
-            YEOFRSDK.shared.setName(for: faceID, name: name)
+            YEOFRSDK.shared.enroll(faceID: faceID, name: name)
         }
 
         // MARK: - Private State Machine

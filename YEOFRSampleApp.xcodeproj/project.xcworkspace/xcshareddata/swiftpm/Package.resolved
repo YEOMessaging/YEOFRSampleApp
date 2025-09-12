@@ -6,8 +6,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/YEOMessaging/YEOFR-SPM",
       "state" : {
-        "revision" : "4d55a64441d284b776bb102635bfa614d724086c",
-        "version" : "0.1.0"
+        "revision" : "ac7c457bf974ce2c75a42b7e914ff51c8db23f8e",
+        "version" : "0.1.2"
       }
     }
   ],
